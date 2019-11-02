@@ -1,5 +1,5 @@
 {
-  "name": "material-angular",
+  "name": "material-angular-boilerplate",
   "version": "0.0.1",
   "scripts": {
     "ng": "ng",
@@ -45,5 +45,22 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravindhsiva/material-angular.git"
+  },
+  "keywords": [
+    "Angular",
+    "Material",
+    "Boilerplate"
+  ],
+  "author": "Aravindhsiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravindhsiva/material-angular/issues"
+  },
+  "homepage": "https://github.com/Aravindhsiva/material-angular#readme"
 }
